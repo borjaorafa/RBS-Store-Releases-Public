@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizado_em": "2026-11-26T22:50:25.886Z",
+  "atualizado_em": "2026-11-26T22:59:37.532Z",
   "produtos": [
     {
       "id": "da-o-papo",
@@ -131,8 +131,25 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
-      "versao_atual": null,
-      "versoes": []
+      "versao_atual": "1.105.661",
+      "versoes": [
+        {
+          "id": "459976793",
+          "numero": "1.105.661",
+          "changelog": "",
+          "criado_em": "2026-11-26T22:56:33Z",
+          "arquivos": [
+            {
+              "id": "798028514",
+              "nome": "Nine2Five-Setup-1.105.661.exe",
+              "tamanho": 151971372,
+              "sha256": "6f7e421cc8dda96de1087f9aa5fbb6613f1a601d42d6c75f50d2527d54a4bd2d",
+              "url": "https://github.com/borjaorafa/RBS-Store-Releases-Public/releases/download/nine2five-v1.105.661/Nine2Five-Setup-1.105.661.exe",
+              "downloads": 0
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "rafoot",
