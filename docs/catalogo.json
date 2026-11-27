@@ -1,16 +1,37 @@
 {
   "schema": 1,
-  "atualizado_em": "2026-11-27T02:27:00.719Z",
+  "atualizado_em": "2026-11-27T04:34:18.216Z",
   "produtos": [
     {
       "id": "da-o-papo",
       "nome": "Dá o Papo!",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Aplicativo de transcrição que transforma conteúdo falado em texto para facilitar o registro e o aproveitamento de informações. Foi pensado para quem lida com gravações de reuniões, apresentações, entrevistas, estudos ou orientações de trabalho e precisa consultar o conteúdo depois. O fluxo reúne envio de arquivos, processamento de áudio ou vídeo e acesso à transcrição resultante. A proposta é economizar o tempo gasto ouvindo repetidamente uma gravação e tornar o material mais fácil de pesquisar, revisar e reutilizar.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Produtividade",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/da-o-papo-oficial.png",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Estudantes",
+          "Consultores",
+          "Profissionais que trabalham com gravações"
+        ],
+        "diferenciais": [
+          "Reaproveitamento de conteúdo falado em texto",
+          "Consulta posterior de gravações transcritas"
+        ],
+        "complementares": [
+          "nine2five",
+          "worksuite"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Envio de arquivos de áudio ou vídeo",
         "Transcrição de conteúdo falado",
@@ -40,12 +61,28 @@
     {
       "id": "diario-de-pressao",
       "nome": "Diário de Pressão",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Aplicativo para acompanhar a pressão arterial e organizar informações importantes da rotina de saúde em um só lugar. Permite registrar medições de pressão e batimentos, acompanhar peso e medicamentos e consultar o histórico por diferentes períodos. Gráficos, médias e indicadores facilitam a identificação de variações ao longo do tempo, ajudando o usuário a levar registros mais claros às consultas. É uma ferramenta de acompanhamento pessoal, não de diagnóstico médico.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Saúde",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/diario-de-pressao-oficial.webp",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Pessoas que acompanham a própria pressão arterial"
+        ],
+        "diferenciais": [
+          "Histórico pessoal de medições",
+          "Organização de registros para consultas"
+        ],
+        "complementares": [],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Registro de pressão arterial e batimentos",
         "Histórico de medições por período",
@@ -75,12 +112,30 @@
     {
       "id": "dolphin-pdf",
       "nome": "Dolphin PDF",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Ferramenta de trabalho com documentos PDF.",
+      "destaque_ordem": 4,
+      "banner_url": null,
       "categoria": "Utilitários",
       "logo_url": "logos/dolphin-pdf.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Profissionais que trabalham com documentos PDF"
+        ],
+        "diferenciais": [
+          "Ferramenta dedicada a documentos PDF"
+        ],
+        "complementares": [
+          "worksuite",
+          "zipfile"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Trabalho com documentos PDF"
       ],
@@ -104,12 +159,33 @@
     {
       "id": "evolut-kronus",
       "nome": "Evolut Kronus",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Sistema para gestão técnica de ativos, manutenção e assistência, com uma visão organizada de equipamentos, histórico e intervenções. Centraliza ordens de serviço, inspeções, ocorrências e planejamento, além de informações de custos e arquivos vinculados aos ativos. Foi concebido para dar rastreabilidade às atividades de campo e apoiar a gestão da operação e dos serviços prestados.",
+      "destaque_ordem": 2,
+      "banner_url": null,
       "categoria": "Gestão empresarial",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/evolut-kronus-oficial.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Equipes de manutenção",
+          "Gestores de ativos",
+          "Prestadores de assistência"
+        ],
+        "diferenciais": [
+          "Histórico técnico vinculado aos equipamentos",
+          "Organização de inspeções e intervenções"
+        ],
+        "complementares": [
+          "nine2five",
+          "rastro"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Gestão técnica de ativos",
         "Ordens de serviço e inspeções",
@@ -135,12 +211,32 @@
     {
       "id": "evolut-lite",
       "nome": "Evolut Lite",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Sistema de gestão empresarial para concentrar processos comerciais e administrativos em uma mesma operação. Reúne cadastros, vendas rápidas e pedidos, controle de estoque, compras, serviços, rotinas financeiras e consultas gerenciais. A proposta é permitir que pequenas operações encontrem as ferramentas do dia a dia sem alternar entre vários sistemas, acompanhando produtos, movimentações e resultados com mais organização. A interface busca equilibrar rapidez no atendimento e controle das informações.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Gestão empresarial",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/evolut-lite-oficial.webp",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Pequenas empresas",
+          "Equipes comerciais e administrativas"
+        ],
+        "diferenciais": [
+          "Concentração de vendas, estoque e compras",
+          "Visão conjunta de rotinas administrativas"
+        ],
+        "complementares": [
+          "rbs-databridge",
+          "meu-financeiro"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Cadastros, vendas e pedidos",
         "Controle de estoque e compras",
@@ -170,12 +266,30 @@
     {
       "id": "mail",
       "nome": "Mail by RBS Technology",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Cliente de e-mail.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Comunicação",
       "logo_url": "logos/mail.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Profissionais que utilizam e-mail"
+        ],
+        "diferenciais": [
+          "Cliente dedicado à comunicação por e-mail"
+        ],
+        "complementares": [
+          "rbs-workspace",
+          "rbs-desk"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Cliente de e-mail"
       ],
@@ -199,12 +313,30 @@
     {
       "id": "meu-financeiro",
       "nome": "Meu Financeiro",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Organização de receitas e despesas.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Finanças",
       "logo_url": "logos/meu-financeiro.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Pessoas e profissionais que organizam finanças"
+        ],
+        "diferenciais": [
+          "Organização conjunta de receitas e despesas"
+        ],
+        "complementares": [
+          "midas",
+          "worksuite"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Organização de receitas",
         "Organização de despesas"
@@ -229,12 +361,31 @@
     {
       "id": "meu-roteirista",
       "nome": "Meu Roteirista",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Aplicativo para planejar deslocamentos com múltiplas paradas e comparar possibilidades antes de iniciar uma viagem. Organiza o roteiro de forma sequencial e apresenta alternativas considerando fatores como distância, tempo e custo estimado, ajudando a escolher a opção mais adequada à necessidade do momento. O projeto também considera preferências do usuário e o aprendizado com o uso da ferramenta. O objetivo é facilitar a preparação do percurso e reduzir decisões improvisadas durante a rota.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Mobilidade",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/meu-roteirista-oficial.webp",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Pessoas que planejam deslocamentos",
+          "Profissionais com múltiplas paradas"
+        ],
+        "diferenciais": [
+          "Planejamento sequencial do percurso",
+          "Comparação de estimativas antes da viagem"
+        ],
+        "complementares": [
+          "rastro"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Planejamento de rotas com múltiplas paradas",
         "Organização sequencial do roteiro",
@@ -264,12 +415,32 @@
     {
       "id": "midas",
       "nome": "Midas",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Ferramenta de automação contábil criada para agilizar o tratamento de extratos bancários de clientes. Importa movimentações, aplica regras de classificação para débitos e créditos, identifica lançamentos que precisam de revisão e aproveita classificações já aprendidas. Reúne informações por cliente, permite conferência das pendências e gera planilhas estruturadas para continuidade do processo contábil. O foco é diminuir tarefas repetitivas e melhorar a padronização sem eliminar a validação humana.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Finanças e contabilidade",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/midas-oficial-v2.png",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Escritórios contábeis",
+          "Equipes de classificação bancária"
+        ],
+        "diferenciais": [
+          "Reutilização de classificações aprendidas",
+          "Conferência de pendências antes da exportação"
+        ],
+        "complementares": [
+          "rbs-databridge",
+          "meu-financeiro"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Importação de extratos bancários",
         "Classificação de débitos e créditos",
@@ -299,12 +470,30 @@
     {
       "id": "midgard-browser",
       "nome": "Midgard Browser",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Navegador desktop com foco em desempenho.",
+      "destaque_ordem": 3,
+      "banner_url": null,
       "categoria": "Utilitários",
       "logo_url": "logos/midgard-browser.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Usuários de navegação desktop"
+        ],
+        "diferenciais": [
+          "Desempenho como objetivo de desenvolvimento"
+        ],
+        "complementares": [
+          "rbs-workspace",
+          "mail"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Navegação desktop",
         "Foco em desempenho"
@@ -329,12 +518,34 @@
     {
       "id": "nine2five",
       "nome": "Nine2Five",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Plataforma de gestão integrada para projetos, consultorias e serviços profissionais. Centraliza clientes, contratos, atas de reuniões, atividades, prazos, responsáveis e entregáveis, evitando que informações importantes fiquem espalhadas por diferentes ferramentas. Também contempla o acompanhamento de treinamentos, execução de serviços, organização financeira e indicadores. O objetivo é dar visibilidade ao andamento do trabalho, facilitar a colaboração das equipes e manter histórico e rastreabilidade de cada entrega.",
+      "destaque_ordem": 1,
+      "banner_url": null,
       "categoria": "Gestão empresarial",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/nine2five-oficial.png",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Gestores de projetos",
+          "Consultores",
+          "Equipes de serviços"
+        ],
+        "diferenciais": [
+          "Centralização de clientes, contratos e entregas",
+          "Histórico de atividades e responsabilidades"
+        ],
+        "complementares": [
+          "da-o-papo",
+          "worksuite",
+          "rbs-workspace"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Gestão de clientes, projetos e serviços",
         "Organização de contratos, atas e atividades",
@@ -367,6 +578,7 @@
           "numero": "1.105.661",
           "changelog": "",
           "criado_em": "2026-11-26T22:56:33Z",
+          "prioridade": null,
           "arquivos": [
             {
               "id": "798028514",
@@ -374,6 +586,7 @@
               "tamanho": 151971372,
               "sha256": "6f7e421cc8dda96de1087f9aa5fbb6613f1a601d42d6c75f50d2527d54a4bd2d",
               "url": "https://github.com/borjaorafa/RBS-Store-Releases-Public/releases/download/nine2five-v1.105.661/Nine2Five-Setup-1.105.661.exe",
+              "assinatura": null,
               "downloads": 1
             }
           ]
@@ -383,12 +596,30 @@
     {
       "id": "rafoot",
       "nome": "Rafoot",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Projeto de aplicativo dedicado ao universo do futebol, com uma proposta visual ligada à leitura de partidas e à organização de informações esportivas. A experiência busca apresentar conteúdos relacionados ao jogo de forma acessível, com atenção à navegação, ao acompanhamento de situações em campo e à visualização tática. O Rafoot também funciona como um espaço de experimentação de interface e interação para um tema muito presente no cotidiano dos torcedores. A demonstração em vídeo apresenta o estágio visual do projeto.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Jogos",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/rafoot-oficial.png",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Entusiastas do futebol"
+        ],
+        "diferenciais": [
+          "Proposta visual centrada em informações esportivas",
+          "Acompanhamento de situações de jogo"
+        ],
+        "complementares": [
+          "submundo"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Informações sobre partidas de futebol",
         "Visualização tática e situações em campo"
@@ -419,12 +650,32 @@
     {
       "id": "rastro",
       "nome": "Rastro",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Software voltado à organização e auditoria de informações operacionais de deslocamentos, jornadas, motoristas e veículos. A partir da importação de registros e planilhas, apoia a conferência de dados, a investigação de ocorrências e a preparação de relatórios para acompanhamento da operação. O projeto também contempla um processo de distribuição de novas versões para os usuários do sistema. Seu objetivo é reduzir o trabalho manual de análise e tornar o histórico operacional mais acessível e verificável.",
+      "destaque_ordem": 6,
+      "banner_url": null,
       "categoria": "Gestão empresarial",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/rastro-oficial.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Gestores de operação",
+          "Equipes de transporte e auditoria"
+        ],
+        "diferenciais": [
+          "Conferência de registros de jornadas e deslocamentos",
+          "Rastreabilidade operacional a partir de planilhas"
+        ],
+        "complementares": [
+          "meu-roteirista",
+          "rbs-databridge"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Importação de registros e planilhas",
         "Auditoria de jornadas e deslocamentos",
@@ -456,12 +707,30 @@
     {
       "id": "rbs-build-manager",
       "nome": "RBS Build Manager",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Ferramenta de gerenciamento de compilação e geração de instaladores.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Desenvolvimento",
       "logo_url": "logos/rbs-build-manager.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Desenvolvedores",
+          "Responsáveis por empacotamento de software"
+        ],
+        "diferenciais": [
+          "Foco na organização de compilação e geração de instaladores"
+        ],
+        "complementares": [
+          "zipfile"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Gerenciamento de compilação",
         "Geração de instaladores"
@@ -486,12 +755,33 @@
     {
       "id": "rbs-databridge",
       "nome": "RBS DataBridge",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Plataforma para importação, transformação e conversão de planilhas e dados entre sistemas empresariais. Trabalha com formatos como XLSX, CSV, ODS e TXT, permitindo mapear colunas, aplicar tratamentos e validar registros antes da exportação. O projeto contempla modelos de conversão, histórico auditável e fluxos de migração entre ERPs, com foco em reduzir retrabalho e tornar transferências de dados mais consistentes.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Dados e integração",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/rbs-databridge-oficial.webp",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Analistas de dados",
+          "Consultores de sistemas",
+          "Equipes de migração"
+        ],
+        "diferenciais": [
+          "Mapeamento de campos entre sistemas",
+          "Conversão de dados com modelos reutilizáveis"
+        ],
+        "complementares": [
+          "midas",
+          "evolut-lite"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Importação e conversão de planilhas",
         "Mapeamento de colunas e tratamento de dados",
@@ -515,12 +805,31 @@
     {
       "id": "rbs-desk",
       "nome": "RBS Desk",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Gestão de atendimento e suporte omnichannel.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Atendimento",
       "logo_url": "logos/rbs-desk.webp",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Equipes de atendimento e suporte"
+        ],
+        "diferenciais": [
+          "Proposta de atendimento omnichannel",
+          "Gestão de atividades de suporte"
+        ],
+        "complementares": [
+          "nine2five",
+          "mail"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Gestão de atendimento",
         "Suporte omnichannel"
@@ -543,12 +852,31 @@
     {
       "id": "rbs-workspace",
       "nome": "RBS Workspace",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Organização de aplicações e espaços de trabalho.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Produtividade",
       "logo_url": "logos/rbs-workspace.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Profissionais que alternam entre aplicações"
+        ],
+        "diferenciais": [
+          "Organização de aplicativos em espaços de trabalho"
+        ],
+        "complementares": [
+          "mail",
+          "midgard-browser",
+          "worksuite"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Organização de aplicações",
         "Espaços de trabalho"
@@ -573,12 +901,30 @@
     {
       "id": "submundo",
       "nome": "Submundo",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Projeto de jogo de simulação e estratégia em que o usuário acompanha a evolução de um personagem dentro de uma cidade com diferentes atividades e possibilidades de decisão. A experiência combina missões, negócios, territórios e mecanismos de progressão para criar objetivos de curto e longo prazo. O desenvolvimento explora a organização de sistemas de jogo, a apresentação de informações e a construção de uma interface coerente com sua ambientação. Seu foco é oferecer uma experiência interativa com identidade própria.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Jogos",
       "logo_url": "https://raw.githubusercontent.com/borjaorafa/portfolio-rafael-borges/535952581cb51817857bba02b2588f90be1d761a/assets/projetos/logos/submundo-oficial.webp",
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Jogadores interessados em simulação e estratégia"
+        ],
+        "diferenciais": [
+          "Proposta de progressão de personagem",
+          "Decisões e atividades em ambiente urbano"
+        ],
+        "complementares": [
+          "rafoot"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Simulação e estratégia",
         "Missões e atividades",
@@ -608,12 +954,31 @@
     {
       "id": "worksuite",
       "nome": "WorkSuite",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Suíte de produtividade.",
+      "destaque_ordem": 5,
+      "banner_url": null,
       "categoria": "Produtividade",
       "logo_url": "logos/worksuite.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Profissionais e estudantes"
+        ],
+        "diferenciais": [
+          "Proposta de suíte de produtividade"
+        ],
+        "complementares": [
+          "dolphin-pdf",
+          "da-o-papo",
+          "nine2five"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Ferramentas de produtividade"
       ],
@@ -637,12 +1002,30 @@
     {
       "id": "zipfile",
       "nome": "ZipFile",
+      "desenvolvedor": "RBS Technology",
       "descricao": "Gerenciamento de arquivos compactados.",
+      "destaque_ordem": null,
+      "banner_url": null,
       "categoria": "Utilitários",
       "logo_url": "logos/zipfile.webp",
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "comercial": {
+        "publico_alvo": [
+          "Usuários que organizam arquivos compactados"
+        ],
+        "diferenciais": [
+          "Foco em gerenciamento de arquivos compactados"
+        ],
+        "complementares": [
+          "dolphin-pdf",
+          "rbs-workspace"
+        ],
+        "modelo": "nao-informado",
+        "situacao": "nao-informada",
+        "aplicacao_url": null
+      },
       "funcionalidades": [
         "Gerenciamento de arquivos compactados"
       ],
