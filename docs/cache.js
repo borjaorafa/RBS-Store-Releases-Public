@@ -1,5 +1,5 @@
 /* Cache exclusivamente de ativos estáticos do próprio portal. */
-const prefixo='rbs-store-estaticos-',cacheNome=prefixo+'1.6.0';
+const prefixo='rbs-store-estaticos-',cacheNome=prefixo+'1.7.0';
 const escopo=new URL(self.registration.scope);
 self.addEventListener('install',e=>e.waitUntil(self.skipWaiting()));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const chave of await caches.keys())if(chave.startsWith(prefixo)&&chave!==cacheNome)await caches.delete(chave);await self.clients.claim();})()));
