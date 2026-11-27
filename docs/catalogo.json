@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "atualizado_em": "2026-11-26T22:59:37.532Z",
+  "atualizado_em": "2026-11-27T02:15:02.627Z",
   "produtos": [
     {
       "id": "da-o-papo",
@@ -11,6 +11,29 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Envio de arquivos de áudio ou vídeo",
+        "Transcrição de conteúdo falado",
+        "Consulta e reaproveitamento do texto"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/da-o-papo.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -23,6 +46,29 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Registro de pressão arterial e batimentos",
+        "Histórico de medições por período",
+        "Acompanhamento de peso e medicamentos"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/diario-de-pressao.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -35,6 +81,23 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Trabalho com documentos PDF"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -47,6 +110,25 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Gestão técnica de ativos",
+        "Ordens de serviço e inspeções",
+        "Planejamento e histórico de intervenções"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -59,6 +141,29 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Cadastros, vendas e pedidos",
+        "Controle de estoque e compras",
+        "Rotinas financeiras e consultas gerenciais"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/evolut-lite.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -71,6 +176,23 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Cliente de e-mail"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -83,6 +205,24 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Organização de receitas",
+        "Organização de despesas"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -95,6 +235,29 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Planejamento de rotas com múltiplas paradas",
+        "Organização sequencial do roteiro",
+        "Comparação de distância, tempo e custo estimado"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/meu-roteirista.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -107,6 +270,29 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Importação de extratos bancários",
+        "Classificação de débitos e créditos",
+        "Revisão de pendências e exportação de planilhas"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/midas-by-rbs-technology.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -119,6 +305,24 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Navegação desktop",
+        "Foco em desempenho"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -131,6 +335,31 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Gestão de clientes, projetos e serviços",
+        "Organização de contratos, atas e atividades",
+        "Acompanhamento de prazos, responsáveis e indicadores"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/nine2five.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": "1.105.661",
       "versoes": [
         {
@@ -145,7 +374,7 @@
               "tamanho": 151971372,
               "sha256": "6f7e421cc8dda96de1087f9aa5fbb6613f1a601d42d6c75f50d2527d54a4bd2d",
               "url": "https://github.com/borjaorafa/RBS-Store-Releases-Public/releases/download/nine2five-v1.105.661/Nine2Five-Setup-1.105.661.exe",
-              "downloads": 0
+              "downloads": 1
             }
           ]
         }
@@ -160,6 +389,30 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Informações sobre partidas de futebol",
+        "Visualização tática e situações em campo"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/rafoot.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -172,6 +425,31 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Importação de registros e planilhas",
+        "Auditoria de jornadas e deslocamentos",
+        "Organização de relatórios operacionais"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/rastro.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -184,6 +462,24 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Gerenciamento de compilação",
+        "Geração de instaladores"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -196,6 +492,23 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Importação e conversão de planilhas",
+        "Mapeamento de colunas e tratamento de dados",
+        "Modelos de conversão e histórico de operações"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -208,6 +521,22 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Gestão de atendimento",
+        "Suporte omnichannel"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -220,6 +549,24 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Organização de aplicações",
+        "Espaços de trabalho"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -232,6 +579,29 @@
       "plataforma": "Não informada",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Simulação e estratégia",
+        "Missões e atividades",
+        "Progressão de personagem"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [
+        {
+          "titulo": "Demonstração publicada no portfólio",
+          "url": "https://borjaorafa.github.io/portfolio-rafael-borges/assets/videos/submundo.mp4",
+          "tipo": "mp4"
+        }
+      ],
+      "compatibilidade": {
+        "sistemas": [],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -244,6 +614,23 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Ferramentas de produtividade"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     },
@@ -256,6 +643,23 @@
       "plataforma": "Windows",
       "requisitos": "",
       "site_url": null,
+      "funcionalidades": [
+        "Gerenciamento de arquivos compactados"
+      ],
+      "instrucoes_instalacao": [],
+      "capturas": [],
+      "videos": [],
+      "compatibilidade": {
+        "sistemas": [
+          "Windows"
+        ],
+        "arquitetura": "",
+        "versao_minima": "",
+        "memoria": "",
+        "armazenamento": ""
+      },
+      "faq": [],
+      "roadmap_publico": null,
       "versao_atual": null,
       "versoes": []
     }
